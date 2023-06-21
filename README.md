@@ -1,4 +1,4 @@
-# Following along a tutorial by Dave Gray
+# Following along a tutorial 
 
 ✅ [this is Dave Gray's channel](https://www.youtube.com/DaveGrayTeachesCode).
 
