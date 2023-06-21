@@ -1,3 +1,5 @@
+# Following along a tutorial by Dave Gray
+
 # "Express JS Tutorial - User Authorization"
 
 ✅ [Check out my YouTube Channel with all of my tutorials](https://www.youtube.com/DaveGrayTeachesCode).
