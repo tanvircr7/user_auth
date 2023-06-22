@@ -2,3 +2,5 @@
 20230617	15:23:49	766dc714-5818-4f63-a2d9-c908820f678b	TypeError: Cannot read properties of undefined (reading 'username')
 20230617	15:26:26	b779a254-8d5e-47ec-ad29-4c60239a9767	TypeError: Cannot read properties of undefined (reading 'username')
 20230617	15:41:05	de122ec1-0abc-434c-b9a0-8d507da18a05	TypeError: Cannot read properties of undefined (reading 'username')
+20230622	22:39:55	16b173ff-de21-4a80-b5c5-41583998aafe	SyntaxError: Unexpected token " in JSON at position 0
+20230622	22:43:28	42414bb5-5a67-4d03-89ec-47a8d8fa424a	SyntaxError: Unexpected token " in JSON at position 0
