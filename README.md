@@ -1,6 +1,6 @@
-# "Express JS Tutorial - User Authorization"
+# Following along a tutorial 
 
-✅ [Check out my YouTube Channel with all of my tutorials](https://www.youtube.com/DaveGrayTeachesCode).
+✅ [this is Dave Gray's channel](https://www.youtube.com/DaveGrayTeachesCode).
 
 **Description:**
 
